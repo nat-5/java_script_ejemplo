@@ -1,2 +1,2 @@
 Ejemplo_javaScript
-Primer ejemplo
+ejemplonumero 1
